@@ -90,8 +90,8 @@ python -m unittest discover -s tests -v
 ### Clone the Repository
 
 ```bash
-git clone <YOUR_GITHUB_REPOSITORY_URL>
-cd <YOUR_REPOSITORY_FOLDER>
+git clone https://github.com/vivekvaali/dynamic-cryptographic-confidentiality-framework.git
+cd dynamic-cryptographic-confidentiality-framework
 ```
 
 ### Install Dependencies
@@ -109,7 +109,7 @@ streamlit run app.py
 ## 8. Repository Structure
 
 ```text
-Dynamic-Cryptographic-Confidentiality-Framework/
+dynamic-cryptographic-confidentiality-framework/
 │
 ├── app.py
 ├── dccf_framework.py
